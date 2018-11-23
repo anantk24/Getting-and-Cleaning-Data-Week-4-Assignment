@@ -11,6 +11,7 @@ This repo was created to finish the assignment for week 4 of Getting and Cleanin
  * Code has few functions. 
  * Function to merge data,to select common data.
  * Code works as assignment was given in coursera
+ * reads files, merge data, labels data tables, group by columns, then find out mean
  * Read comments.
 
 
